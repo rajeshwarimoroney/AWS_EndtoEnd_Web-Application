@@ -1,0 +1,2 @@
+API: https://a1ozmnbv88.execute-api.us-east-1.amazonaws.com/dev
+ARN : arn:aws:dynamodb:us-east-1:471112906651:table/PowerOfMathmaticsDatabase
